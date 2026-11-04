@@ -1,0 +1,19 @@
+{
+  "synthetic": true,
+  "product": {
+    "handle": "herbruikbare-kabelbinders",
+    "title": "Herbruikbare kabelbinders – 100 stuks",
+    "description": "Een voorbeeldproduct voor het bundelen van audiokabels.",
+    "sku": "DEMO-100",
+    "priceInclVatCents": 2495,
+    "vatBasisPoints": 2100
+  },
+  "costs": {
+    "purchaseCents": 750,
+    "shippingCents": 450,
+    "paymentCents": 60,
+    "returnReserveCents": 100,
+    "desiredContributionCents": 500
+  },
+  "sources": []
+}
